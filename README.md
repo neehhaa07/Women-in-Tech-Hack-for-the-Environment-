@@ -1,9 +1,13 @@
+# elevateHER
 # Women-in-Tech-Hack-for-the-Environment-
 Analyzing datasets from credible sources to track and visualize women’s health parameters  Correlating that to how it impacts the environment  Waste management, women’s health awareness, recycling and reuse of waste generated. 
 
 ## Topic Chosen
 
 Menstrual waste management  analysis and its impact on the environment .
+
+## Project Findings Link
+
 
 ## Datasets Used
 
@@ -13,8 +17,11 @@ Menstrual waste management  analysis and its impact on the environment .
 4.https://www.mdpi.com/1660-4601/18/11/5534
 5.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4785312/table/BMJOPEN2015010290TB3/?report=objectonly
 
-## Project Findings Link
-
+## Team Members: 
+Prutha Annadate 
+Neha Aher 
+Soha Arora 
+Srishti Bachchan 
 
 
 
