@@ -17,10 +17,31 @@ Website: https://prutha1411.wixsite.com/elevateher
 4.https://www.mdpi.com/1660-4601/18/11/5534
 5.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4785312/table/BMJOPEN2015010290TB3/?report=objectonly
 
+## Platforms used 
+1. Google Sheets 
+
+2. Microsoft Excel 
+
+3. Jupyter Notebook 
+
+4. Tableau 
+
+5. Wix 
+
+## Languages Used 
+
+1. Python
+
+2. SQL 
+
+
 ## Team Members: 
 Prutha Annadate 
+
 Neha Aher 
+
 Soha Arora 
+
 Srishti Bachchan 
 
 
